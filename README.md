@@ -1,2 +1,2 @@
 # clientserver
-Server and client for SQLite database synchronization
+Java server for android. Then add RSA message encryption
