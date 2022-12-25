@@ -40,9 +40,6 @@ import androidx.appcompat.app.AppCompatActivity;
 //
 //  SERVER
 //
-// https://www.tutorialspoint.com/client-server-programming-in-android
-//
-// Alternate https://stackoverflow.com/questions/7384678/how-to-create-socket-connection-in-android
 //===================================================
 
 @SuppressLint("SetTextI18n") // stands for "Internationalization"
